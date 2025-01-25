@@ -60,7 +60,7 @@ Each instruction is a 32-bit value with the following structure:
    ```
 2. Run the virtual machine with the example program:
    ```bash
-   ruby vm.rb
+   ruby Ruby_VM.rb
    ```
 
 ---
